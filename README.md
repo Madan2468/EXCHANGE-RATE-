@@ -1,0 +1,1 @@
+I have developed a website utilizing JavaScript for functionality, integrated with APIs, and structured using HTML and CSS. The project is an exchange rate platform that provides real-time exchange rates for any currency pair available 
